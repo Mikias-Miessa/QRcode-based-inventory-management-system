@@ -6,4 +6,5 @@
 * the system will notify the admin through email and within the system when stock is low 
 * The system can produce a report 
 * For good user interface and experiance the system have multiple color and theme choices 
-[Click here to view the system](https://mikiasmiessa.000webhostapp.com/inventory/Products.php)
+To view the system 
+[Click here ](https://mikiasmiessa.000webhostapp.com/inventory/Products.php)
